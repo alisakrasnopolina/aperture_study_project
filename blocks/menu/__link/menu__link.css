@@ -1,0 +1,9 @@
+.menu__link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  color: #fff;
+  text-decoration: none;
+  margin-right: 30px;
+}

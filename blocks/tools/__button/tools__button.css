@@ -1,0 +1,24 @@
+.tools__button {
+  background-color: #fff;
+  border-radius: 21px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.4000000059604645px;
+  text-align: left;
+  color: #000; 
+  text-decoration: none;
+  width: 144px;
+  height: 42px;
+}
+
+.tools__button::before {
+  content: "";
+  width: 21px;
+  height: 21px;
+  background-image: url(../../../images/icon.svg);
+  margin: 11px 10px;
+  display: inline-block;
+  vertical-align: middle;
+  background-size: cover;
+}

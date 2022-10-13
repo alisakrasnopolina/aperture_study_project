@@ -1,0 +1,10 @@
+.cards__item {
+  height: 600px;
+  flex-basis: 492px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-content: flex-start;
+  padding: 30px 70px 30px 30px;
+}
+

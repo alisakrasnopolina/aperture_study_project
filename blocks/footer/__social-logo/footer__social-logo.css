@@ -1,0 +1,6 @@
+.footer__social-logo {
+  margin: auto 24px auto 0;
+}
+.footer__social-logo:last-child {
+  margin: auto 0;
+}

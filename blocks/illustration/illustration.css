@@ -1,0 +1,9 @@
+.illustration {
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding-right: 221px;
+  position: relative;
+}

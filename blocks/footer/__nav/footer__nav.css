@@ -1,0 +1,6 @@
+.footer__nav {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  width: 288px;
+}

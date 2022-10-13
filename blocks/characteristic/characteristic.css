@@ -1,0 +1,10 @@
+.characteristic {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+  margin: 0;
+  padding: 0;
+}

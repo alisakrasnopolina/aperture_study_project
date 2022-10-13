@@ -1,0 +1,11 @@
+.intro {
+  min-height: 710px; 
+  position: relative;
+  background-image: linear-gradient(0deg, #000000 0%, rgba(0, 0, 0, 0) 100%), url(../../../images/intro__image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  position: relative;
+}

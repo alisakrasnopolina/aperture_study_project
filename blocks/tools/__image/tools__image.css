@@ -1,0 +1,5 @@
+.tools__image {
+  background-image: url(../../../images/image__tools.jpg);
+  background-size: cover;
+  width: 50%;
+}

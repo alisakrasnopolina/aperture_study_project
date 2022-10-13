@@ -1,0 +1,10 @@
+.cards__title {
+  margin: 0 0 16px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-align: left;
+  color: #fff;
+  text-transform: uppercase;
+}

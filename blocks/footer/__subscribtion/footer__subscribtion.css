@@ -1,0 +1,12 @@
+.footer__subscribtion {
+  flex-basis: 50%;
+  height: 52px;
+  background: rgb(249, 250, 251);
+  border: 1px solid rgb(229, 231, 235);
+  border-radius: 26px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3%;
+}
